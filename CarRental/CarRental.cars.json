@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "6547eb429813580aa49bb6c0"
+  },
+  "owner": {
+    "$oid": "654230d78888c91536287c97"
+  },
+  "title": "Fiat Punto II",
+  "address": "Gdańsk",
+  "photos": [
+    "photo1699373940931.jpg",
+    "photo1699705780091.jpg",
+    "photo1699705811921.jpg"
+  ],
+  "description": "OKAZJA!!!!   Stan igła, niski przebieg.",
+  "perks": [
+    "benzyna",
+    "esp",
+    "abs"
+  ],
+  "extraInfo": "OKAZJA!!!!   Stan igła, niski przebieg",
+  "checkIn": 11,
+  "checkOut": 11,
+  "maxSeats": 5,
+  "__v": 5,
+  "price": 40
+},
+{
+  "_id": {
+    "$oid": "654937d70ea03bfd6a1828fb"
+  },
+  "owner": {
+    "$oid": "654230d78888c91536287c97"
+  },
+  "title": "Honda Civic VII",
+  "address": "Jagodowa",
+  "photos": [
+    "photo1699373970120.jpg"
+  ],
+  "description": "Super auto",
+  "perks": [
+    "benzyna",
+    "esp",
+    "kamera",
+    "abs"
+  ],
+  "extraInfo": "Okazja",
+  "checkIn": 11,
+  "checkOut": 12,
+  "maxSeats": 5,
+  "price": 60,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "654f72909fbdf3420e449aac"
+  },
+  "owner": {
+    "$oid": "654230d78888c91536287c97"
+  },
+  "title": "Fiat Grande Punto",
+  "address": "sdads",
+  "photos": [
+    "photo1699705431674.jpg"
+  ],
+  "description": "Szybka strzała, mało pali",
+  "perks": [
+    "benzyna",
+    "kamera",
+    "esp",
+    "abs"
+  ],
+  "extraInfo": "Super auto",
+  "checkIn": 23,
+  "checkOut": 11,
+  "maxSeats": 5,
+  "price": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65757e9fe91307d5c2a7a3c3"
+  },
+  "owner": {
+    "$oid": "654230d78888c91536287c97"
+  },
+  "title": "Seat Leon 2",
+  "address": "Słupsk",
+  "photos": [
+    "photo1702198907684.jpg"
+  ],
+  "description": "Super auto polecam",
+  "perks": [
+    "benzyna",
+    "kamera",
+    "abs"
+  ],
+  "extraInfo": "Nie klepane",
+  "checkIn": 11,
+  "checkOut": 20,
+  "maxSeats": 1,
+  "price": 50000,
+  "__v": 0
+}]

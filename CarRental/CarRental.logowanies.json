@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "653eaa438ed9d4fffd273d0d"
+  },
+  "name": "antonio",
+  "email": "antonio@wp.pl",
+  "password": "$2a$10$.5tFXQ3jjG1dzOcJRVtHd.ynAwMH9/4yDiVg9pxJdv31H8KI1DcXK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65420f0857424d0ab1897ca8"
+  },
+  "name": "pawel",
+  "email": "pawel@wp.pl",
+  "password": "$2a$10$viUhqb.9Q2fu/MsF087pwuZ/At0K1Q.pQd681U7GJGR4POV3y1TSW",
+  "__v": 0
+}]

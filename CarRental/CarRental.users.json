@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "654230d78888c91536287c97"
+  },
+  "name": "doe",
+  "email": "doe@wp.pl",
+  "password": "$2a$10$e1MgzM4mIm4CgrYy0Wo.Eua1Kds8bcU6zONO17ZvI62Mn67aMcb7m",
+  "__v": 0
+}]
